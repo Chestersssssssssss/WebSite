@@ -1,5 +1,5 @@
 body{
-    background-image: url(tree.jpg);
+    background-image: url(Gym.jpg);
     background-position: center;
     background-size: cover;
     height: 95vh;
@@ -10,7 +10,7 @@ body{
 }
 
 .glass-effect{ 
-    background-image: url(tree.jpg);
+    background-image: url(Gym.jpg);
     background-position: center;
     background-size: cover;
     
@@ -18,8 +18,8 @@ body{
     padding: 0;
     font-family: cursive;
 
-    width: 900px;
-    height: 750px;
+    width: 850px;
+    height: 700px;
     background: radial-gradient(rgba(255,255,255,0.6));
     border-radius: 20px;
     box-shadow: 5px 10px 20px rgba(0,0,0,0.6);
@@ -67,7 +67,7 @@ img{
     padding: 18px;
 }
 p{
-    color: #fff;
+    color: #000000;
 }
 button{
     cursor: pointer;
@@ -104,6 +104,6 @@ button:hover{
 .si ul li i{
     text-decoration: none;
     font-size: 18px;
-    color: #fff;
+    color: #000000;
     cursor: pointer;   
 }
